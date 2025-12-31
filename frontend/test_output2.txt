@@ -1,0 +1,332 @@
+[ +309 ms] Unable to locate an Android SDK.
+[   +9 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[        ] executing: [C:\Users\Admin\Documents\test_app\RentMySaman\tools\flutter/] git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[  +57 ms] Exit code 0 from: git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[        ] 2025-11-20 17:53:13 -0500
+[  +10 ms] Found 1 files which will be executed as Widget Tests.
+[   +6 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +2 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[  +51 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[   +8 ms] Skipping pub get: version match.
+[  +94 ms] Found plugin image_picker at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.2.1\
+[   +5 ms] Found plugin image_picker_windows at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_windows-0.2.2\
+[  +18 ms] Found plugin file_selector_windows at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+5\
+[   +5 ms] Found plugin image_picker_macos at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.2+1\
+[   +3 ms] Found plugin file_selector_macos at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.5\
+[   +2 ms] Found plugin image_picker_linux at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.2\
+[   +3 ms] Found plugin file_selector_linux at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_linux-0.9.4\
+[   +2 ms] Found plugin image_picker_ios at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.13+2\
+[   +3 ms] Found plugin image_picker_for_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.1.1\
+[   +6 ms] Found plugin image_picker_android at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.13+10\
+[   +2 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.33\
+[   +4 ms] Found plugin firebase_core at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.32.0\
+[   +2 ms] Found plugin firebase_core_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-2.24.0\
+[   +4 ms] Found plugin firebase_auth at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.16.0\
+[   +2 ms] Found plugin firebase_auth_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth_web-5.8.13\
+[  +16 ms] Found plugin cloud_firestore at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.17.5\
+[   +2 ms] Found plugin cloud_firestore_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore_web-3.12.5\
+[  +64 ms] Found plugin image_picker at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.2.1\
+[   +1 ms] Found plugin image_picker_windows at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_windows-0.2.2\
+[  +11 ms] Found plugin file_selector_windows at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+5\
+[   +3 ms] Found plugin image_picker_macos at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.2+1\
+[   +1 ms] Found plugin file_selector_macos at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.5\
+[   +2 ms] Found plugin image_picker_linux at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.2\
+[   +2 ms] Found plugin file_selector_linux at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_linux-0.9.4\
+[   +2 ms] Found plugin image_picker_ios at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.13+2\
+[   +2 ms] Found plugin image_picker_for_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.1.1\
+[   +6 ms] Found plugin image_picker_android at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.13+10\
+[   +1 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.33\
+[   +1 ms] Found plugin firebase_core at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.32.0\
+[   +2 ms] Found plugin firebase_core_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-2.24.0\
+[   +3 ms] Found plugin firebase_auth at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.16.0\
+[   +1 ms] Found plugin firebase_auth_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth_web-5.8.13\
+[   +5 ms] Found plugin cloud_firestore at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.17.5\
+[   +1 ms] Found plugin cloud_firestore_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore_web-3.12.5\
+[  +84 ms] No packages with native assets. Skipping native assets compilation.
+[   +2 ms] Writing native assets json to file:///C:/Users/Admin/Documents/test_app/RentMySaman/frontend/build/native_assets/windows/native_assets.json.
+[   +4 ms] Writing C:\Users\Admin\Documents\test_app\RentMySaman\frontend\build\native_assets\windows\native_assets.json done.
+[ +138 ms] running test package with arguments: [--no-color, --chain-stack-traces, --, file:///C:/Users/Admin/Documents/test_app/RentMySaman/frontend/test/widget_test.dart?]
+00:00 +0: loading C:/Users/Admin/Documents/test_app/RentMySaman/frontend/test/widget_test.dart
+[ +146 ms] test 0: starting test C:/Users/Admin/Documents/test_app/RentMySaman/frontend/test/widget_test.dart
+[   +4 ms] Stopping scan for flutter_test_config.dart; found project root at C:\Users\Admin\Documents\test_app\RentMySaman\frontend
+[   +4 ms] Compiler will use the following file as its incremental dill file: C:\Users\Admin\AppData\Local\Temp\flutter_tools.31847370\flutter_test_compiler.96b655b3\output.dill
+[        ] Listening to compiler controller...
+[   +8 ms] Compiling file:///C:/Users/Admin/AppData/Local/Temp/flutter_tools.31847370/flutter_test_listener.894dcd32/listener.dart
+[  +42 ms] Found plugin image_picker at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-1.2.1\
+[   +2 ms] Found plugin image_picker_windows at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_windows-0.2.2\
+[   +8 ms] Found plugin file_selector_windows at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_windows-0.9.3+5\
+[   +2 ms] Found plugin image_picker_macos at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_macos-0.2.2+1\
+[   +1 ms] Found plugin file_selector_macos at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_macos-0.9.5\
+[   +1 ms] Found plugin image_picker_linux at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_linux-0.2.2\
+[   +1 ms] Found plugin file_selector_linux at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\file_selector_linux-0.9.4\
+[   +1 ms] Found plugin image_picker_ios at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_ios-0.8.13+2\
+[   +1 ms] Found plugin image_picker_for_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_for_web-3.1.1\
+[   +3 ms] Found plugin image_picker_android at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.13+10\
+[   +1 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.33\
+[   +1 ms] Found plugin firebase_core at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.32.0\
+[   +1 ms] Found plugin firebase_core_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core_web-2.24.0\
+[   +2 ms] Found plugin firebase_auth at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.16.0\
+[   +1 ms] Found plugin firebase_auth_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth_web-5.8.13\
+[   +5 ms] Found plugin cloud_firestore at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.17.5\
+[   +1 ms] Found plugin cloud_firestore_web at C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore_web-3.12.5\
+[  +18 ms] Skipping generating dart_plugin_registrant.dart because it is up-to-date.
+[   +4 ms] C:\Users\Admin\Documents\test_app\RentMySaman\tools\flutter\bin\cache\dart-sdk\bin\dartaotruntime.exe C:\Users\Admin\Documents\test_app\RentMySaman\tools\flutter\bin\cache\dart-sdk\bin\snapshots\frontend_server_aot.dart.snapshot --sdk-root C:\Users\Admin\Documents\test_app\RentMySaman\tools\flutter\bin\cache\artifacts\engine\common\flutter_patched_sdk/ --incremental --no-print-incremental-dependencies --target=flutter --experimental-emit-debug-metadata -DFLUTTER_VERSION=3.38.3 -DFLUTTER_CHANNEL=stable -DFLUTTER_GIT_URL=https://github.com/flutter/flutter.git -DFLUTTER_FRAMEWORK_REVISION=19074d12f7 -DFLUTTER_ENGINE_REVISION=13e658725d -DFLUTTER_DART_VERSION=3.10.1 --output-dill C:\Users\Admin\AppData\Local\Temp\flutter_tools.31847370\flutter_test_compiler.96b655b3\output.dill --packages C:\Users\Admin\Documents\test_app\RentMySaman\frontend\.dart_tool\package_config.json -Ddart.vm.profile=false -Ddart.vm.product=false --enable-asserts --track-widget-creation --initialize-from-dill C:\Users\Admin\Documents\test_app\RentMySaman\frontend\build\test_cache\build\ca33f282d90356a564f3e3da52c97351.cache.dill.track.dill --verbosity=error
+[  +10 ms] <- compile file:///C:/Users/Admin/AppData/Local/Temp/flutter_tools.31847370/flutter_test_listener.894dcd32/listener.dart
+[+1141 ms] <- accept
+[        ] <- reset
+[        ] Compiling file:///C:/Users/Admin/AppData/Local/Temp/flutter_tools.31847370/flutter_test_listener.894dcd32/listener.dart took 1260ms
+[        ] test 0: starting test device
+[   +3 ms] test 0: awaiting connection to test device
+[   +1 ms] test 0: VM Service uri is not available
+[   +4 ms] test 0: test harness socket server is running at port:55549
+[   +2 ms] Using this directory for fonts configuration: C:\Users\Admin\AppData\Local\Temp\flutter_tools.31847370\flutter_test_fonts.6ae49647
+[   +1 ms] test 0: Starting flutter_tester process with command=[C:\Users\Admin\Documents\test_app\RentMySaman\tools\flutter\bin\cache\artifacts\engine\windows-x64\flutter_tester.exe, --disable-vm-service, --enable-checked-mode, --verify-entry-points, --enable-software-rendering, --skia-deterministic-rendering, --enable-dart-profiling, --non-interactive, --use-test-fonts, --disable-asset-fonts, --packages=C:\Users\Admin\Documents\test_app\RentMySaman\frontend\.dart_tool\package_config.json, --flutter-assets-dir=C:\Users\Admin\Documents\test_app\RentMySaman\frontend\build\unit_test_assets, C:\Users\Admin\AppData\Local\Temp\flutter_tools.31847370\flutter_test_listener.894dcd32\listener.dart.dill], environment={FLUTTER_TEST: true, FONTCONFIG_FILE: C:\Users\Admin\AppData\Local\Temp\flutter_tools.31847370\flutter_test_fonts.6ae49647/fonts.conf, SERVER_PORT: 55549, APP_NAME: rent_my_saman, UNIT_TEST_ASSETS: C:\Users\Admin\Documents\test_app\RentMySaman\frontend\build\unit_test_assets, PATH: C:\Users\Admin\Documents\test_app\RentMySaman\frontend\build\native_assets\windows\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\cursor\resources\app\bin;C:\Program Files\Git\cmd;C:\Users\Admin\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Admin\AppData\Local\Programs\Python\Python312\;C:\Users\Admin\AppData\Local\Programs\Python\Launcher\;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;C:\Users\Admin\AppData\Local\Programs\Antigravity\bin}
+[   +6 ms] test 0: Started flutter_tester process at pid 22516
+[ +340 ms] test 0: connected to test device, now awaiting test result
+[        ] test 0: Waiting for test harness or tests to finish
+00:00 +0: (setUpAll)
+00:00 +0: App initialization test
+══╡ EXCEPTION CAUGHT BY WIDGETS LIBRARY ╞═══════════════════════════════════════════════════════════
+The following FirebaseException was thrown building Builder:
+[core/no-app] No Firebase App '[DEFAULT]' has been created - call Firebase.initializeApp()
+
+The relevant error-causing widget was:
+  MaterialApp
+  MaterialApp:file:///C:/Users/Admin/Documents/test_app/RentMySaman/frontend/lib/main.dart:28:12
+
+When the exception was thrown, this was the stack:
+#0      MethodChannelFirebase.app (package:firebase_core_platform_interface/src/method_channel/method_channel_firebase.dart:195:5)
+#1      Firebase.app (package:firebase_core/src/firebase.dart:56:41)
+#2      FirebaseAuth.instance (package:firebase_auth/src/firebase_auth.dart:38:47)
+#3      new AuthService (package:rent_my_saman/services/auth_service.dart:5:43)
+#4      new _LoginScreenState (package:rent_my_saman/screens/auth/login_screen.dart:16:24)
+#5      LoginScreen.createState (package:rent_my_saman/screens/auth/login_screen.dart:10:39)
+#6      new StatefulElement (package:flutter/src/widgets/framework.dart:5905:60)
+#7      StatefulWidget.createElement (package:flutter/src/widgets/framework.dart:779:38)
+...     Normal element mounting (260 frames)
+#267    Element.inflateWidget (package:flutter/src/widgets/framework.dart:4590:20)
+#268    MultiChildRenderObjectElement.inflateWidget (package:flutter/src/widgets/framework.dart:7269:36)
+#269    MultiChildRenderObjectElement.mount (package:flutter/src/widgets/framework.dart:7285:32)
+...     Normal element mounting (454 frames)
+#723    Element.inflateWidget (package:flutter/src/widgets/framework.dart:4590:20)
+#724    Element.updateChild (package:flutter/src/widgets/framework.dart:4053:20)
+#725    ComponentElement.performRebuild (package:flutter/src/widgets/framework.dart:5844:16)
+#726    Element.rebuild (package:flutter/src/widgets/framework.dart:5532:7)
+#727    ProxyElement.update (package:flutter/src/widgets/framework.dart:6152:5)
+#728    _InheritedNotifierElement.update (package:flutter/src/widgets/inherited_notifier.dart:108:11)
+#729    Element.updateChild (package:flutter/src/widgets/framework.dart:4037:15)
+#730    ComponentElement.performRebuild (package:flutter/src/widgets/framework.dart:5844:16)
+#731    StatefulElement.performRebuild (package:flutter/src/widgets/framework.dart:5985:11)
+#732    Element.rebuild (package:flutter/src/widgets/framework.dart:5532:7)
+#733    StatefulElement.update (package:flutter/src/widgets/framework.dart:6010:5)
+#734    Element.updateChild (package:flutter/src/widgets/framework.dart:4037:15)
+#735    ComponentElement.performRebuild (package:flutter/src/widgets/framework.dart:5844:16)
+#736    Element.rebuild (package:flutter/src/widgets/framework.dart:5532:7)
+#737    ProxyElement.update (package:flutter/src/widgets/framework.dart:6152:5)
+#738    _InheritedNotifierElement.update (package:flutter/src/widgets/inherited_notifier.dart:108:11)
+#739    Element.updateChild (package:flutter/src/widgets/framework.dart:4037:15)
+#740    ComponentElement.performRebuild (package:flutter/src/widgets/framework.dart:5844:16)
+#741    StatefulElement.performRebuild (package:flutter/src/widgets/framework.dart:5985:11)
+#742    Element.rebuild (package:flutter/src/widgets/framework.dart:5532:7)
+#743    StatefulElement.update (package:flutter/src/widgets/framework.dart:6010:5)
+#744    Element.updateChild (package:flutter/src/widgets/framework.dart:4037:15)
+#745    ComponentElement.performRebuild (package:flutter/src/widgets/framework.dart:5844:16)
+#746    StatefulElement.performRebuild (package:flutter/src/widgets/framework.dart:5985:11)
+#747    Element.rebuild (package:flutter/src/widgets/framework.dart:5532:7)
+#748    StatefulElement.update (package:flutter/src/widgets/framework.dart:6010:5)
+#749    Element.updateChild (package:flutter/src/widgets/framework.dart:4037:15)
+#750    ComponentElement.performRebuild (package:flutter/src/widgets/framework.dart:5844:16)
+#751    Element.rebuild (package:flutter/src/widgets/framework.dart:5532:7)
+#752    ProxyElement.update (package:flutter/src/widgets/framework.dart:6152:5)
+#753    Element.updateChild (package:flutter/src/widgets/framework.dart:4037:15)
+#754    ComponentElement.performRebuild (package:flutter/src/widgets/framework.dart:5844:16)
+#755    StatefulElement.performRebuild (package:flutter/src/widgets/framework.dart:5985:11)
+#756    Element.rebuild (package:flutter/src/widgets/framework.dart:5532:7)
+#757    StatefulElement.update (package:flutter/src/widgets/framework.dart:6010:5)
+#758    Element.updateChild (package:flutter/src/widgets/framework.dart:4037:15)
+#759    ComponentElement.performRebuild (package:flutter/src/widgets/framework.dart:5844:16)
+#760    Element.rebuild (package:flutter/src/widgets/framework.dart:5532:7)
+#761    ProxyElement.update (package:flutter/src/widgets/framework.dart:6152:5)
+#762    Element.updateChild (package:flutter/src/widgets/framework.dart:4037:15)
+#763    ComponentElement.performRebuild (package:flutter/src/widgets/framework.dart:5844:16)
+#764    Element.rebuild (package:flutter/src/widgets/framework.dart:5532:7)
+#765    ProxyElement.update (package:flutter/src/widgets/framework.dart:6152:5)
+#766    Element.updateChild (package:flutter/src/widgets/framework.dart:4037:15)
+#767    _RawViewElement._updateChild (package:flutter/src/widgets/view.dart:481:16)
+#768    _RawViewElement.update (package:flutter/src/widgets/view.dart:568:5)
+#769    Element.updateChild (package:flutter/src/widgets/framework.dart:4037:15)
+#770    ComponentElement.performRebuild (package:flutter/src/widgets/framework.dart:5844:16)
+#771    Element.rebuild (package:flutter/src/widgets/framework.dart:5532:7)
+#772    StatelessElement.update (package:flutter/src/widgets/framework.dart:5898:5)
+#773    Element.updateChild (package:flutter/src/widgets/framework.dart:4037:15)
+#774    ComponentElement.performRebuild (package:flutter/src/widgets/framework.dart:5844:16)
+#775    StatefulElement.performRebuild (package:flutter/src/widgets/framework.dart:5985:11)
+#776    Element.rebuild (package:flutter/src/widgets/framework.dart:5532:7)
+#777    StatefulElement.update (package:flutter/src/widgets/framework.dart:6010:5)
+#778    Element.updateChild (package:flutter/src/widgets/framework.dart:4037:15)
+#779    RootElement._rebuild (package:flutter/src/widgets/binding.dart:1782:16)
+#780    RootElement.update (package:flutter/src/widgets/binding.dart:1760:5)
+#781    RootElement.performRebuild (package:flutter/src/widgets/binding.dart:1774:7)
+#782    Element.rebuild (package:flutter/src/widgets/framework.dart:5532:7)
+#783    BuildScope._tryRebuild (package:flutter/src/widgets/framework.dart:2750:15)
+#784    BuildScope._flushDirtyElements (package:flutter/src/widgets/framework.dart:2807:11)
+#785    BuildOwner.buildScope (package:flutter/src/widgets/framework.dart:3111:18)
+#786    AutomatedTestWidgetsFlutterBinding.drawFrame (package:flutter_test/src/binding.dart:1506:19)
+#787    RendererBinding._handlePersistentFrameCallback (package:flutter/src/rendering/binding.dart:495:5)
+#788    SchedulerBinding._invokeFrameCallback (package:flutter/src/scheduler/binding.dart:1434:15)
+#789    SchedulerBinding.handleDrawFrame (package:flutter/src/scheduler/binding.dart:1347:9)
+#790    AutomatedTestWidgetsFlutterBinding.pump.<anonymous closure> (package:flutter_test/src/binding.dart:1335:9)
+#793    TestAsyncUtils.guard (package:flutter_test/src/test_async_utils.dart:74:41)
+#794    AutomatedTestWidgetsFlutterBinding.pump (package:flutter_test/src/binding.dart:1324:27)
+#795    WidgetTester.pumpWidget.<anonymous closure> (package:flutter_test/src/widget_tester.dart:598:22)
+#798    TestAsyncUtils.guard (package:flutter_test/src/test_async_utils.dart:74:41)
+#799    WidgetTester.pumpWidget (package:flutter_test/src/widget_tester.dart:595:27)
+#800    main.<anonymous closure> (file:///C:/Users/Admin/Documents/test_app/RentMySaman/frontend/test/widget_test.dart:48:18)
+#801    testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:29)
+<asynchronous suspension>
+#802    TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1059:5)
+<asynchronous suspension>
+<asynchronous suspension>
+(elided 5 frames from dart:async and package:stack_trace)
+
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+The following TestFailure was thrown running a test:
+Expected: exactly one matching candidate
+  Actual: _TextWidgetFinder:<Found 0 widgets with text "Login to continue": []>
+   Which: means none were found but one was expected
+
+When the exception was thrown, this was the stack:
+#4      main.<anonymous closure> (file:///C:/Users/Admin/Documents/test_app/RentMySaman/frontend/test/widget_test.dart:52:5)
+<asynchronous suspension>
+#5      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#6      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1059:5)
+<asynchronous suspension>
+<asynchronous suspension>
+(elided one frame from package:stack_trace)
+
+This was caught by the test expectation on the following line:
+  file:///C:/Users/Admin/Documents/test_app/RentMySaman/frontend/test/widget_test.dart line 52
+The test description was:
+  App initialization test
+════════════════════════════════════════════════════════════════════════════════════════════════════
+══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+The following message was thrown:
+Multiple exceptions (2) were detected during the running of the current test, and at least one was
+unexpected.
+════════════════════════════════════════════════════════════════════════════════════════════════════
+00:00 +0 -1: App initialization test [E]
+  Test failed. See exception logs above.
+  The test description was: App initialization test
+  
+00:00 +0 -1: (tearDownAll)
+[ +808 ms] test 0: Test harness is no longer needed by test process
+[        ] test 0: finished
+[        ] test 0: cleaning up...
+[        ] test 0: ensuring test device is terminated.
+[        ] test 0: Terminating flutter_tester process
+[        ] test 0: Shutting down DevTools server
+[        ] test 0: Test process is no longer needed by test harness
+[   +1 ms] test 0: Shutting down test harness socket server
+[  +19 ms] test 0: flutter_tester process at pid 22516 exited with code=-1
+[        ] test 0: deleting temporary directory
+[   +6 ms] test 0: finished
+00:00 +0 -1: Some tests failed.
+[   +6 ms] Deleting C:\Users\Admin\AppData\Local\Temp\flutter_tools.31847370\flutter_test_compiler.96b655b3...
+[   +7 ms] killing pid 20820
+[  +35 ms] Deleting C:\Users\Admin\AppData\Local\Temp\flutter_tools.31847370\flutter_test_fonts.6ae49647...
+[   +3 ms] test package returned with exit code 1
+[        ] Runtime for phase TestRunner: Wall-clock: 0:00:02.686933; combined: 0:00:02.686961.
+[        ] Runtime for phase Compile: Wall-clock: 0:00:01.260467; combined: 0:00:01.260513.
+[        ] Runtime for phase Run: Wall-clock: 0:00:01.168464; combined: 0:00:01.168466.
+[        ] Runtime for phase CoverageTotal: Wall-clock: 0:00:00.000000; combined: 0:00:00.000000.
+[        ] Runtime for phase CoverageCollect: Wall-clock: 0:00:00.000000; combined: 0:00:00.000000.
+[        ] Runtime for phase CoverageParseJson: Wall-clock: 0:00:00.000000; combined: 0:00:00.000000.
+[        ] Runtime for phase CoverageAddHitmap: Wall-clock: 0:00:00.000000; combined: 0:00:00.000000.
+[        ] Runtime for phase CoverageDataCollect: Wall-clock: 0:00:00.000000; combined: 0:00:00.000000.
+[        ] Runtime for phase WatcherFinishedTest: Wall-clock: 0:00:00.000536; combined: 0:00:00.000538.
+[        ] "flutter test" took 3,292ms.
+[  +71 ms] 
+           #0      throwToolExit (package:flutter_tools/src/base/common.dart:34:3)
+           #1      TestCommand.runCommand (package:flutter_tools/src/commands/test.dart:714:7)
+           <asynchronous suspension>
+           #2      FlutterCommand.run.<anonymous closure> (package:flutter_tools/src/runner/flutter_command.dart:1559:27)
+           <asynchronous suspension>
+           #3      AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+           <asynchronous suspension>
+           #4      CommandRunner.runCommand (package:args/command_runner.dart:212:13)
+           <asynchronous suspension>
+           #5      FlutterCommandRunner.runCommand.<anonymous closure> (package:flutter_tools/src/runner/flutter_command_runner.dart:487:9)
+           <asynchronous suspension>
+           #6      AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+           <asynchronous suspension>
+           #7      FlutterCommandRunner.runCommand (package:flutter_tools/src/runner/flutter_command_runner.dart:422:5)
+           <asynchronous suspension>
+           #8      run.<anonymous closure>.<anonymous closure> (package:flutter_tools/runner.dart:104:11)
+           <asynchronous suspension>
+           #9      AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+           <asynchronous suspension>
+           #10     main (package:flutter_tools/executable.dart:103:3)
+           <asynchronous suspension>
+
+
+[   +1 ms] Running 3 shutdown hooks
+[   +2 ms] Shutdown hooks complete
+[ +221 ms] exiting with code 1

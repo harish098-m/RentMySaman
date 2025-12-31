@@ -1,0 +1,3 @@
+1. One more feature we can add buy the vehicle from the user perspective - AI can listen the engine sound based on the car interior and exterior photos, engine photos, instrumental cluster photos, it will analyse the rate which like professional mechanic will do. 
+2. Exchanging cars -people will get bored when they use the same car for long time, so we can add feature of exchanging cars, where people can exchange their cars with other people's cars.
+3. 
